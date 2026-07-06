@@ -7,7 +7,7 @@ st.title("🏠 Real Estate Buyer Segmentation")
 
 # Load datasets
 clients = pd.read_csv("clients.csv")
-properties = pd.read_csv("properties(1).csv")
+properties = pd.read_csv("properties(2).csv")
 
 # Merge datasets
 df = pd.merge(
